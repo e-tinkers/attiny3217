@@ -1,6 +1,6 @@
 ## E-Tinkers ATtiny3217 Arduino-Compatible Development Board
 
-[![](https://github/e-tinkers/E-tinkers_ATtiny3217_Arduino_Dev_Board.png)](https://github/e-tinkers//E-tinkers_ATtiny3217_Arduino_Dev_Board.png)
+[![](https://github.com/e-tinkers/attiny3217/blob/master/E-tinkers_ATtiny3217_Arduino_Dev_Board.png)](https://github.com/e-tinkers/attiny3217/blob/master/E-tinkers_ATtiny3217_Arduino_Dev_Board.png)
 
 This is the hardware design repository for a tiny (34.6mm * 19.3mm) Arduino-compatible Development Board based on ATtiny3271.
 
@@ -79,12 +79,12 @@ Traditionally ATtiny family has low flash and SRAM memory size as well as low pi
     <tr>
         <td rowspan="3">Timer</td>
         <td rowspan="3">
-        2 x 8-bit
+        2 x 8-bit<br>
         1 x 16-bit
         </td>
         <td rowspan="3">
-        1 x 16-bit(TCA)
-        2 x 16-bit (TCB)
+        1 x 16-bit(TCA)<br>
+        2 x 16-bit (TCB)<br>
         1 x 12-bit (TCD)
         </td>
     </tr>
