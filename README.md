@@ -100,8 +100,4 @@ There are several notible features that are not available in ATmega328p, such as
 <li>5 Configurable Internal Voltage References (versus ATmega328p's 1 at VCC level)</li>
 </ul>
 
->
->Maybe it is time to replace the old Arduino with an ATtiny3217-powered Arduino?!
->
-
 Read my [blog](https://www.e-tinkers.com/2020/07/arduino-compatible-development-board-with-attiny3217) for more details regarding this project.
