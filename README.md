@@ -4,10 +4,7 @@
 
 This is the hardware design repository for a tiny (34.6mm * 19.3mm) Arduino-compatible Development Board based on ATtiny3271.
 
-ATtiny3217 is a modern AVR microcontroller chip from Microchip that could potentially replace ATmega328p that is widely used in official Arduino boards, and here is how I build an Arduino compatible development board based on ATtiny3217.
-
-Traditionally ATtiny family has low flash and SRAM memory size as well as low pin count, this has changed since the release of tinyAVR 0-series and 1-series MCUs in 2018. The ATtiny3217 is the highest in terms of memory and pin count within the tinyAVR 1-series MCU.
-
+ATtiny3217 is a modern AVR microcontroller chip from Microchip that could potentially replace ATmega328p that is widely used in official Arduino boards. Traditionally the classic ATtiny family has low flash and SRAM memory size as well as low pin count, this has changed since the release of tinyAVR 0-series and 1-series MCUs in 2018. The following table shows ATtiny3217 offers almost all the features of an ATmega328p and more...
 
 ### Differences between ATmega328p and ATtiny3217
 <table>
