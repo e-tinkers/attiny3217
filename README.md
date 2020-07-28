@@ -54,19 +54,9 @@ ATtiny3217 is a modern AVR microcontroller chip from Microchip that could potent
         <td>12 x 10-bit</td>
     </tr>
     <tr>
-        <td>DAC Channel</td>
-        <td>None</td>
-        <td>3 x 8-bit</td>
-    </tr>
-    <tr>
         <td>PWM Channel</td>
         <td>6</td>
         <td>22</td>
-    </tr>
-    <tr>
-        <td>RTC</td>
-        <td>None</td>
-        <td>1 x 16-bit</td>
     </tr>
     <tr>
         <td>IO</td>
