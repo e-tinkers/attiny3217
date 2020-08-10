@@ -74,9 +74,9 @@ ATtiny3217 is a modern AVR microcontroller chip from Microchip that could potent
 
 There are several notible features that are not available in ATmega328p, such as:
 <ul>
-<li>Three 8-bit DAC with one external channel</li>
+<li>Three 8-bit DACs with one external channel</li>
 <li>Configurable Custom Logic/Lookup Table</li>
-<li>16-bit Real-time Clock</li>
+<li>16-bit Real-time Counter</li>
 <li>6 Event System Channels</li>
 <li>Periperral Touch Controller</li>
 <li>5 Configurable Internal Voltage References (versus ATmega328p's 1 at VCC level)</li>
