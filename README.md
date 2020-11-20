@@ -82,7 +82,7 @@ There are several notible features that are not available in ATmega328p, such as
 <li>5 Configurable Internal Voltage References (versus ATmega328p's 1 at VCC level)</li>
 </ul>
 
-Read my [blog](https://www.e-tinkers.com/2020/07/arduino-compatible-development-board-with-attiny3217) for more details regarding this project.
+Read my [blog](https://www.e-tinkers.com/2020/07/arduino-compatible-development-board-with-attiny3217) for more details on how to use it as an Arduino.
 
 ## E-Tinkers ATtiny3217 Development Board Pinout
 [![](https://github.com/e-tinkers/attiny3217/blob/master/e-tinkers_attiny3217_pinout.png)](https://github.com/e-tinkers/attiny3217/blob/master/e-tinkers_attiny3217_pinout.png)
